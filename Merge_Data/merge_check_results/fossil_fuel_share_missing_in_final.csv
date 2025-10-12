@@ -1,0 +1,216 @@
+year,iso_code,country,ft_fossil_fuel
+1990,ABW,Aruba,
+1990,AFG,Afghanistan,
+1990,AGO,Angola,25.48
+1990,ALB,Albania,76.6
+1990,AND,Andorra,
+1990,ARE,United Arab Emirates,100.0
+1990,ARG,Argentina,87.64
+1990,ARM,Armenia,97.04
+1990,ASM,American Samoa,
+1990,ATG,Antigua and Barbuda,0.0
+1990,AUS,Australia,93.89
+1990,AUT,Austria,79.13
+1990,AZE,Azerbaijan,99.9
+1990,BDI,Burundi,
+1990,BEL,Belgium,75.79
+1990,BEN,Benin,4.84
+1990,BFA,Burkina Faso,11.63
+1990,BGD,Bangladesh,45.58
+1990,BGR,Bulgaria,84.1
+1990,BHR,Bahrain,100.0
+1990,BHS,"Bahamas, The",0.0
+1990,BIH,Bosnia and Herzegovina,93.93
+1990,BLR,Belarus,97.71
+1990,BLZ,Belize,0.0
+1990,BMU,Bermuda,
+1990,BOL,Bolivia,66.7
+1990,BRA,Brazil,51.24
+1990,BRB,Barbados,0.0
+1990,BRN,Brunei Darussalam,99.87
+1990,BTN,Bhutan,0.0
+1990,BWA,Botswana,64.83
+1990,CAF,Central African Republic,
+1990,CAN,Canada,73.52
+1990,CHE,Switzerland,58.65
+1990,CHL,Chile,72.15
+1990,CHN,China,75.79
+1990,CIV,Cote d'Ivoire,23.7
+1990,CMR,Cameroon,18.71
+1990,COD,"Congo, Dem. Rep.",11.16
+1990,COG,"Congo, Rep.",34.25
+1990,COL,Colombia,67.58
+1990,COM,Comoros,0.0
+1990,CPV,Cabo Verde,0.0
+1990,CRI,Costa Rica,58.53
+1990,CUB,Cuba,61.69
+1990,CUW,Curacao,100.0
+1990,CYM,Cayman Islands,
+1990,CYP,Cyprus,99.55
+1990,CZE,Czechia,91.22
+1990,DEU,Germany,86.84
+1990,DJI,Djibouti,0.0
+1990,DMA,Dominica,0.0
+1990,DNK,Denmark,89.59
+1990,DOM,Dominican Republic,76.49
+1990,DZA,Algeria,99.94
+1990,ECU,Ecuador,78.21
+1990,EGY,"Egypt, Arab Rep.",90.28
+1990,ERI,Eritrea,
+1990,ESP,Spain,77.37
+1990,EST,Estonia,100.0
+1990,ETH,Ethiopia,4.64
+1990,FIN,Finland,59.76
+1990,FJI,Fiji,0.0
+1990,FRA,France,58.15
+1990,FRO,Faroe Islands,
+1990,FSM,"Micronesia, Fed. Sts.",
+1990,GAB,Gabon,32.01
+1990,GBR,United Kingdom,90.65
+1990,GEO,Georgia,88.84
+1990,GHA,Ghana,18.23
+1990,GIB,Gibraltar,100.0
+1990,GIN,Guinea,
+1990,GMB,"Gambia, The",0.0
+1990,GNB,Guinea-Bissau,0.0
+1990,GNQ,Equatorial Guinea,18.13
+1990,GRC,Greece,94.56
+1990,GRD,Grenada,0.0
+1990,GRL,Greenland,
+1990,GTM,Guatemala,27.86
+1990,GUM,Guam,
+1990,GUY,Guyana,0.0
+1990,HKG,"Hong Kong SAR, China",100.0
+1990,HND,Honduras,30.01
+1990,HRV,Croatia,81.08
+1990,HTI,Haiti,12.8
+1990,HUN,Hungary,81.61
+1990,IDN,Indonesia,62.25
+1990,IMN,Isle of Man,
+1990,IND,India,58.67
+1990,IRL,Ireland,98.31
+1990,IRN,"Iran, Islamic Rep.",98.93
+1990,IRQ,Iraq,98.77
+1990,ISL,Iceland,29.82
+1990,ISR,Israel,97.19
+1990,ITA,Italy,93.44
+1990,JAM,Jamaica,88.06
+1990,JOR,Jordan,98.13
+1990,JPN,Japan,84.6
+1990,KAZ,Kazakhstan,96.95
+1990,KEN,Kenya,17.63
+1990,KGZ,Kyrgyz Republic,93.53
+1990,KHM,Cambodia,
+1990,KIR,Kiribati,0.0
+1990,KNA,St. Kitts and Nevis,0.0
+1990,KOR,"Korea, Rep.",83.17
+1990,KWT,Kuwait,99.93
+1990,LAO,Lao PDR,
+1990,LBN,Lebanon,92.54
+1990,LBR,Liberia,
+1990,LBY,Libya,98.88
+1990,LCA,St. Lucia,0.0
+1990,LIE,Liechtenstein,
+1990,LKA,Sri Lanka,24.11
+1990,LSO,Lesotho,
+1990,LTU,Lithuania,75.85
+1990,LUX,Luxembourg,89.17
+1990,LVA,Latvia,82.4
+1990,MAC,"Macao SAR, China",
+1990,MAF,St. Martin (French part),
+1990,MAR,Morocco,85.48
+1990,MCO,Monaco,
+1990,MDA,Moldova,100.0
+1990,MDG,Madagascar,11.12
+1990,MDV,Maldives,0.0
+1990,MEX,Mexico,87.35
+1990,MHL,Marshall Islands,
+1990,MKD,North Macedonia,98.0
+1990,MLI,Mali,
+1990,MLT,Malta,99.99
+1990,MMR,Myanmar,14.57
+1990,MNE,Montenegro,
+1990,MNG,Mongolia,96.72
+1990,MNP,Northern Mariana Islands,
+1990,MOZ,Mozambique,5.57
+1990,MRT,Mauritania,
+1990,MUS,Mauritius,55.45
+1990,MWI,Malawi,
+1990,MYS,Malaysia,92.6
+1990,NAM,Namibia,
+1990,NCL,New Caledonia,
+1990,NER,Niger,11.55
+1990,NGA,Nigeria,48.81
+1990,NIC,Nicaragua,29.36
+1990,NLD,Netherlands,95.98
+1990,NOR,Norway,52.05
+1990,NPL,Nepal,5.05
+1990,NRU,Nauru,
+1990,NZL,New Zealand,66.12
+1990,OMN,Oman,100.0
+1990,PAK,Pakistan,52.86
+1990,PAN,Panama,58.9
+1990,PER,Peru,63.28
+1990,PHL,Philippines,41.19
+1990,PLW,Palau,0.0
+1990,PNG,Papua New Guinea,
+1990,POL,Poland,97.8
+1990,PRI,Puerto Rico (US),
+1990,PRK,"Korea, Dem. People's Rep.",93.09
+1990,PRT,Portugal,80.45
+1990,PRY,Paraguay,21.33
+1990,PSE,West Bank and Gaza,
+1990,PYF,French Polynesia,
+1990,QAT,Qatar,99.91
+1990,ROU,Romania,96.13
+1990,RUS,Russian Federation,93.51
+1990,RWA,Rwanda,2.7
+1990,SAU,Saudi Arabia,99.98
+1990,SDN,Sudan,17.45
+1990,SEN,Senegal,43.25
+1990,SGP,Singapore,99.39
+1990,SLB,Solomon Islands,0.0
+1990,SLE,Sierra Leone,
+1990,SLV,El Salvador,31.43
+1990,SMR,San Marino,
+1990,SOM,Somalia,
+1990,SRB,Serbia,91.61
+1990,SSD,South Sudan,
+1990,STP,Sao Tome and Principe,0.0
+1990,SUR,Suriname,
+1990,SVK,Slovak Republic,81.63
+1990,SVN,Slovenia,71.28
+1990,SWE,Sweden,37.79
+1990,SWZ,Eswatini,34.57
+1990,SXM,Sint Maarten (Dutch part),
+1990,SYC,Seychelles,0.0
+1990,SYR,Syrian Arab Republic,97.73
+1990,TCA,Turks and Caicos Islands,
+1990,TCD,Chad,7.37
+1990,TGO,Togo,15.06
+1990,THA,Thailand,63.67
+1990,TJK,Tajikistan,71.33
+1990,TKM,Turkmenistan,100.0
+1990,TLS,Timor-Leste,
+1990,TON,Tonga,0.0
+1990,TTO,Trinidad and Tobago,98.9
+1990,TUN,Tunisia,87.02
+1990,TUR,Turkiye,81.35
+1990,TUV,Tuvalu,
+1990,TZA,Tanzania,8.67
+1990,UGA,Uganda,3.55
+1990,UKR,Ukraine,92.59
+1990,URY,Uruguay,58.64
+1990,USA,United States,86.43
+1990,UZB,Uzbekistan,99.18
+1990,VCT,St. Vincent and the Grenadines,0.0
+1990,VEN,"Venezuela, RB",90.46
+1990,VGB,British Virgin Islands,
+1990,VIR,Virgin Islands (U.S.),
+1990,VNM,Viet Nam,27.62
+1990,VUT,Vanuatu,0.0
+1990,WSM,Samoa,0.0
+1990,YEM,"Yemen, Rep.",96.92
+1990,ZAF,South Africa,85.96
+1990,ZMB,Zambia,15.52
+1990,ZWE,Zimbabwe,44.8
